@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JessicaGabrielle
-- 👀 I’m interested in software engineer
+- 👀 I’m interested in software engineering , machine learning, artifical intelligence, robotics.
 - 🌱 I’m currently learning python , html , css, and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
